@@ -40,7 +40,7 @@
     "axios": "^1.8.4",
     "dotenv": "^17.2.2",
     "lru-cache": "^11.1.0",
-    "neo4j-driver": "^5.28.1",
+    "neo4j-driver": "^6.0.0",
     "openai": "^6.1.0",
     "ts-node": "^10.9.2",
     "uuid": "^13.0.0"
