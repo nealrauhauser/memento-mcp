@@ -43,7 +43,7 @@
     "neo4j-driver": "^6.0.0",
     "openai": "^6.1.0",
     "ts-node": "^10.9.2",
-    "uuid": "^13.0.0"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@types/lru-cache": "^7.10.10",
